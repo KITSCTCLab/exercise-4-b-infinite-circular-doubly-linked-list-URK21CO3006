@@ -1,4 +1,3 @@
-# Write your code here
 
 length_of_circular_linked_list = int(input())
  
@@ -14,3 +13,4 @@ print(len(final_list))
 
 for i in final_list:
  print(i,end=" ")
+
